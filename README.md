@@ -1,4 +1,4 @@
-# Desafio Cientista de Dados - PProductions
+# Desafio Cientista de Dados 
 
 ## Introdução
 
@@ -67,5 +67,7 @@ with open('models/modelo.pkl', 'rb') as file:
 ## Contato
 Para dúvidas ou sugestões, entre em contato:
 -`Nome:`   Gustavo Silva
+
 -`Email:`  gustavo616.silva@gmail.com
+
 -`Github:` GustavoSSSSilva
