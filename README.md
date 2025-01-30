@@ -41,11 +41,8 @@ Este projeto foi desenvolvido como parte do desafio de Cientista de Dados da Ind
 | `scikit-learn`      | 1.4.0    | Machine Learning: modelos, pré-processamento e avaliação de métricas.     |
 | `matplotlib`        | 3.8.2    | Visualização de gráficos estáticos e interativos.                         |
 | `seaborn`           | 0.13.1   | Visualização estatística com gráficos mais atrativos.                     |
-| `geopy`             | 2.4.1    | Cálculo de distâncias geográficas (ex: entre coordenadas).                |
 | `Jupyter`           | 1.0.0    | Ambiente interativo para desenvolvimento e análise de dados.              |
-| `scipy`             | 1.11.4   | Funções científicas avançadas (estatística, álgebra linear).              |
-| `statsmodels`       | 0.14.1   | Modelagem estatística e análise exploratória.                             |
-| `plotly`            | 5.18.0   | Visualizações interativas e dashboards.                                   |
+| `cartopy`           | 0.22.0   | Visualização de mapas e dados geográficos.                                |
 
 ## Execução
 - `Análise Exploratória de Dados (EDA):/`: Abra o pdf EDA.pdf para visualizar a análise exploratória dos dados.
@@ -66,6 +63,7 @@ with open('models/modelo.pkl', 'rb') as file:
 
 ## Contato
 Para dúvidas ou sugestões, entre em contato:
+
 -`Nome:`   Gustavo Silva
 
 -`Email:`  gustavo616.silva@gmail.com
