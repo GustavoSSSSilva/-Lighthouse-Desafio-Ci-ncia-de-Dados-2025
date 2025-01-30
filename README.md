@@ -41,7 +41,6 @@ Este projeto foi desenvolvido como parte do desafio de Cientista de Dados da Ind
 | `scikit-learn`      | 1.4.0    | Machine Learning: modelos, pré-processamento e avaliação de métricas.     |
 | `matplotlib`        | 3.8.2    | Visualização de gráficos estáticos e interativos.                         |
 | `seaborn`           | 0.13.1   | Visualização estatística com gráficos mais atrativos.                     |
-| `Jupyter`           | 1.0.0    | Ambiente interativo para desenvolvimento e análise de dados.              |
 | `cartopy`           | 0.22.0   | Visualização de mapas e dados geográficos.                                |
 
 ## Execução
